@@ -1,2 +1,3 @@
-# ProjectADA_final_milestone
-Signed networks : Subreddit Hyperlink Network
+Subreddit Hyperlink Network: the subreddit-to-subreddit hyperlink network is extracted from the posts that create hyperlinks from one subreddit to another. We say a hyperlink originates from a post in the source community and links to a post in the target community.
+
+Note that each post has a **title** and a **body**. The hyperlink can be present in either the title of the post or in the body. Therefore, we provide one network file for each.
