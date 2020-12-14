@@ -10,8 +10,8 @@ The data contains 40 months of Reddit comments and posts
 
 **BALANCE THEORY** :
 
-	Considers the possible ways in which triangles on three individuals can be signed.
-	it posits that triangles with **three positive signs** (3 mutual friends), and those with **one positive sign** (2 friends with common enemy) are more plausible (more prelevent) than triangles with **two positive signs** (2 enemies with common friend) or **none** (mutual enemies)
+- Considers the possible ways in which triangles on three individuals can be signed.
+- it posits that triangles with **three positive signs** (3 mutual friends), and those with **one positive sign** (2 friends with common enemy) are more plausible (more prelevent) than triangles with **two positive signs** (2 enemies with common friend) or **none** (mutual enemies)
 
 
 
