@@ -14,6 +14,16 @@ The data contains 40 months of Reddit comments and posts
 - it posits that triangles with **three positive signs** (3 mutual friends), and those with **one positive sign** (2 friends with common enemy) are more plausible (more prelevent) than triangles with **two positive signs** (2 enemies with common friend) or **none** (mutual enemies)
 
 
+**STATUS THEORY** :
+
+- We need to define our proper way of formulating the status theory. Given the low pourcentage of negative links (10% in all the links) we can say that a negative link from community A to community B may mean that community B is my enemy / wrong  and a positive link from A to B may be I get along well with community B
+
+
+	Max Weber developed the idea of "status group" which is a translation of the German Stand (pl. Stände). Status groups are communities that are based on ideas of lifestyles and the honor the status group both asserts, and is given by others. Status groups exist in the context of beliefs about relative prestige, privilege, and honor and can be of both a positive and negative sort.
+
+We can therefore say that a positive link from A to B means that A agrees/respect B's ideas/lifestyle , and a negative link from A to B means that A disagrees/disrespect B's ideas/lifestyle.
+
+
 
 ## SOURCES :
 
